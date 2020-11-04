@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src""https://www.google.com/search?q=python&safe=strict&rlz=1C1CHBF_enID874ID874&sxsrf=ALeKk039g9ocz664zVVVCG1Y5HnUAqtt3g:1604517336886&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5mZrvzOnsAhWWfn0KHS_KCc8Q_AUoAXoECDYQAw&biw=1366&bih=568#imgrc=vZKJO2_oBP1evM />]
+[<img align="left" alt="Python" width="26px" src"https://www.google.com/search?q=python&safe=strict&rlz=1C1CHBF_enID874ID874&sxsrf=ALeKk039g9ocz664zVVVCG1Y5HnUAqtt3g:1604517336886&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5mZrvzOnsAhWWfn0KHS_KCc8Q_AUoAXoECDYQAw&biw=1366&bih=568#imgrc=vZKJO2_oBP1evM" />]
 [<img align="left" alt="" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
